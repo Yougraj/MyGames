@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/84845528/144428339-551a3415-23a9-427c-
 
 <img src=".Assets/3rdLevel.png" width="700" height="400">
 
-## # You can control *"A" ⬅️ "D" ➡️ "Space"🚀* To exit Press *"Esc"* key
+## # You can control *"A" ⬅️ "D" ➡️ "Space"🚀* To exit Game Press *"Esc"* key
 
 
 # #Gracias Por Su Visita
